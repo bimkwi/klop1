@@ -1,0 +1,16 @@
+{
+  "name": "klop1",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "เกมส์ยิ งจุดโทษ Penalty Game เปิดให้บริกา รแล้ววันนี้เกมยิงจุดโทษมือถือที่มาพร้อมความทันสมัย และ ใช้งานได้ง่ายมากที่สุด",
+  "keywords": [
+    "เกมส์ยิงจุดโทษ Penalty Game",
+    "เกมส์ยิงจุดโทษบอ ลโลก",
+    "เกมส์ยิงจุดโทษ ค่ายไหน"
+  ],
+  "repository": "https://github.com/bimkwi/klop1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
